@@ -1,8 +1,5 @@
-[![kubernetes](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/EKS.yml/badge.svg)](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/EKS.yml/badge.svg?branch=Aula_5)
+[![Go](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/go.yml/badge.svg?branch=Aula_5)](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/go.yml)
 
-[![Docker](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/Docker.yml/badge.svg)](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/Docker.yml/badge.svg?branch=Aula_5)
+[![EKS](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/EKS.yml/badge.svg?branch=Aula_5&event=push)](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/EKS.yml)
 
-[![Entrega continua](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/ECS.yml/badge.svg)](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/ECS.yml/badge.svg?branch=Aula_5)
-
-update
-6
+[![EKS](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/Docker.yml/badge.svg?branch=Aula_5&event=push)](https://github.com/colgatepvh/Curso_CI_6eks/actions/workflows/Docker.yml)
