@@ -27,7 +27,7 @@ jobs:
 
     - run: terraform -chdir=modeloInfra_CI_Kubernetes/env/Homolog state pull
 
-    - run: terraform -chdir=modeloInfra_CI_Kubernetes/env/Homolog create -auto-approve
+    - run: terraform -chdir=modeloInfra_CI_Kubernetes/env/Homolog apply -auto-approve
 
         
     - run: echo "$(terraform -chdir=modeloInfra_CI_Kubernetes/env/Homolog output -raw IP_db)"
