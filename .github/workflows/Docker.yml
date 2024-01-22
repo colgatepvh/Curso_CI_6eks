@@ -43,4 +43,4 @@ jobs:
         push: true
     # List of tags
         #tags: chlspvh/go_ci:${{github.run_number}}
-        tags: chlspvh/go_cib5:Aula_5
+        tags: chlspvh/go_cib6:Aula_5
