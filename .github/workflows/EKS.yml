@@ -62,5 +62,5 @@ jobs:
     - run: kubectl apply -f modeloInfra_CI_Kubernetes/go.yaml 
     
     #- run: kubectl set image deployment/go-api go=chlspvh/go_ci:${{github.run_number}}
-    - run: kubectl set image deployment/go-api go=chlspvh/go_cib5:Aula_5
+    - run: kubectl set image deployment/go-api go=chlspvh/go_cib6:Aula_5
 
